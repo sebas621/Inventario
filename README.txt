@@ -15,7 +15,4 @@ Sebastián Avila
 
 Sin licencia 
 
-Notas:
-- Exportar a Excel está disponible como CSV (compatible con Excel).
-- Generación de PDF se hace mediante la opción 'Imprimir/Guardar PDF' desde el navegador.
-- Si quieres que incluya Dompdf y PhpSpreadsheet localmente, dime y lo descargaré e integraré (requiere permiso para descargar desde la web).
+
