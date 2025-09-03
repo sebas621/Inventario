@@ -11,8 +11,6 @@ Instrucciones:
 Autores:
 Pedro Vasquez
 Jose parada
-Sebastián Avila 
+Sebastián Avila  
 
-Sin licencia 
-
-
+sin licnecia 
